@@ -65,7 +65,7 @@ int main() {
     cout << endl;
 }
 ```
-## O0
+## Оптимизация O0
 
 ```assembly
 	.file	"fibonacci.cpp"            ; Исходный файл
@@ -166,7 +166,7 @@ _Z9fibonacciiPx:                         ; Точка входа (mangled name)
 	.ident	"GCC: (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 14.2.0"
 ```
 
-## O3
+## Оптимизация O3
 
 ```assembly
 	.file	"fibonacci.cpp"            ; Исходный файл
