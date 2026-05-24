@@ -308,6 +308,7 @@ clean:
 
 ## Работа Makefile
 ![Работа Makefile](photos/2.png)
+![Работа Makefile](photos/3.png)
 
 ## Усовершенствование программы до параллельной
 
