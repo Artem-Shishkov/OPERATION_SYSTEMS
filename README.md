@@ -306,6 +306,9 @@ clean:
 	rm -f $(TARGET) $(PARALLEL_TARGET) *.o $(ASM_TARGETS) fib_result.txt
 ```
 
+## Работа Makefile
+![Работа Makefile](photos/2.png)
+
 ## Усовершенствование программы до параллельной
 
 ```cpp
