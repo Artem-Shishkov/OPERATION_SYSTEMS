@@ -65,6 +65,8 @@ int main() {
     cout << endl;
 }
 ```
+![Компиляция и запуск](photos/1.png)
+
 ## Оптимизация O0
 
 ```assembly
