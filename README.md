@@ -316,7 +316,7 @@ clean:
 	rm -f $(TARGET) $(PARALLEL_TARGET) *.o $(ASM_TARGETS) fib_result.txt
 ```
 
-## Усовершенствование программы до модульной и параллельной
+## Усовершенствование программы до параллельной
 
 ```cpp
 #include <iostream>
